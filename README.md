@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 | ------------- 
 
 | Default aligned |Left aligned| Center aligned  | Right aligned | Right alignedSD |
-|-----------------|-----------|---------------|---------------|
+|-----------------|-----------|---------------|---------------|---------------|
 
 
 
