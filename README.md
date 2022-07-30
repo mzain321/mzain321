@@ -23,14 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Technical Skills
-||| 
-| ------------- | ------------- |
-| Python Programming  | OOP in Python  | OOP in Python  |
-|  Django  |  EDA |
 
-
-
-| 1  | 2 |
+| Python Programming  |  OOP in Python  |
 | ------------- | ------------- 
 
 
