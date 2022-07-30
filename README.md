@@ -1,5 +1,5 @@
 ## Hi there 
-<img src="https://user-images.githubusercontent.com/105768085/181962612-2ce31e3e-f26c-44d9-9076-8ff0109caef8.gif" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/105768085/181962612-2ce31e3e-f26c-44d9-9076-8ff0109caef8.gif" width="30" height="30"/>
 
 # 🤔 About Me
 ## Personal Summary 
