@@ -68,18 +68,18 @@ Here are some ideas to get you started:
 | ------------- | -------------
 
 ## Projects<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
-<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/> ### CRM - Django
+### CRM - Django<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
 Live demo: https://crmbyz.herokuapp.com
 Customer Relationship Management software solution designed for a shop coded using Django framework and PostgreSQL database.
-### Spacie - Pygame
+### Spacie - Pygame<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
 Git: https://github.com/Zain0909012/Spacie---Pygame
 A Python based game developed using Pygame for desktop environments. It is a GUI based game featuring skills in object oriented Pyhton programming and desktop application development.
-### RPS - Python
+### RPS - Python<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
 Git: https://github.com/Zain0909012/
 A Python based game featuring the age old Rock-Paper-Scissor game.
-### TSR - Tensorflow
+### TSR - Tensorflow<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
 Git: https://github.com/Zain0909012/
 A deep learning based computer vision project featuring detection of road signs for driverless cars using Convolutional Neural Network.
-### ENAC- Tensorflow
+### ENAC- Tensorflow<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
 Git: https://github.com/Zain0909012/
 A deep learning based NLP project featuring classification of English news articles using MLP.
