@@ -10,6 +10,9 @@ Microsoft, USA (In Progress)
 
 Huawei HCIA-AI (2022) 
 Huawei, Mainland China (In Progress)
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 <!--
 **Zain0909012/Zain0909012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 ## Technical Skills
