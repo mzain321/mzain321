@@ -15,6 +15,9 @@
 ![2](https://user-images.githubusercontent.com/105768085/181969029-2567e1c7-6978-4f2c-8964-fef8e1b9ed91.gif)
 ![p](https://user-images.githubusercontent.com/105768085/181987221-d7101b4f-c206-4cd3-a953-b4eeff8de414.png)
 ![b](https://user-images.githubusercontent.com/105768085/181987255-1f930eca-8dd7-49e5-ac83-53785a5da112.png)
+![buy](https://user-images.githubusercontent.com/105768085/181990305-ffb25279-cc60-4275-ae5c-ea81b20f697a.png)
+
+![buy2](https://user-images.githubusercontent.com/105768085/181992500-dbc7a858-4c12-45a6-90b4-831a2432e512.png)
 
 <img src="" width="30" height="30"/>
 -->
@@ -88,4 +91,5 @@ A deep learning based NLP project featuring classification of English news artic
 
 ## Liked my work, Support me here...
 [![buy](https://user-images.githubusercontent.com/105768085/181990305-ffb25279-cc60-4275-ae5c-ea81b20f697a.png)](https://crmbyz.herokuapp.com)
+[![buy2](https://user-images.githubusercontent.com/105768085/181992500-dbc7a858-4c12-45a6-90b4-831a2432e512.png)](https://crmbyz.herokuapp.com)
 
