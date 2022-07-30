@@ -87,5 +87,5 @@ Git: https://github.com/Zain0909012/
 A deep learning based NLP project featuring classification of English news articles using MLP.
 
 ## Liked my work, Support me here...
-[![buy](https://user-images.githubusercontent.com/105768085/181990305-ffb25279-cc60-4275-ae5c-ea81b20f697a.png)](crmbyz.herokuapp.com)
+[![buy](https://user-images.githubusercontent.com/105768085/181990305-ffb25279-cc60-4275-ae5c-ea81b20f697a.png)](https://crmbyz.herokuapp.com)
 
