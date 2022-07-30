@@ -24,14 +24,7 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-|Python Programming  
-| ------------- 
 
-|OOP in Python
-| -------------
-
-| Django
-| ------------- 
 
 | Header Column One | Header Column Two | Header Column Three | Header Column Four |
 
