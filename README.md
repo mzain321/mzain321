@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 | Python Programming  
 | ------------- 
 
+| OOP in Python
+| ------------- 
+
+| Django
+| ------------- 
 
 
 
