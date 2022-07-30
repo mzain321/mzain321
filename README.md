@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Technical Skills
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Python Programming  | OOP in Python  |
-|    |   |
+|  Django  |  EDA |
 
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
