@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-|Python Programming  |OOP in Python |OOP in Python
-| ------------- | ------------- | ------------- 
+|Python Programming  |OOP in Python | Django |OOP in Python |OOP in Python |OOP in Python |OOP in Python |OOP in Python
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 
 |OOP in Python
 | -------------
