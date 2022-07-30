@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 
 |Patient  |Self Reliant
 | ------------- | -------------
+
+## Projects
+### CRM - Django
