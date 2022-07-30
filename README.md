@@ -34,3 +34,9 @@ Here are some ideas to get you started:
 |Pandas |Matplotlib |Seaborn | Pygame
 | ------------- | ------------- | ------------- | -------------
 
+
+## Soft Skills
+
+|Efficient Team Player  |Critical Thinker |Good Listener |Public Speaker |Good Manager |Fast Learner
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+
