@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ## Personal Summary 
 I am an enthusiastic and skillfull Python developer. I would like to work in a challenging, stimulating and growing environment that can utilize my expertise in full-stack Python web and desktop application development, data analytics and data modeling in an effective manner. I would like to grow my career in these directions although I am open to serve in any other technology stack other than Python. I am a fast learner and have solid understanding of programming fundamentals and enterprise level frameworks. This has enabled me to switch to any other programming ecosystem and adapt the language and framework in almost no time. My objective is to learn, serve and flourish in the organization in a mutually beneficial relationship.
 
