@@ -1,6 +1,22 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/105768085/181962612-2ce31e3e-f26c-44d9-9076-8ff0109caef8.gif" width="30" height="30"/>
 
-# 🤔 About Me
+# 🤔 About Me![1](https://user-images.githubusercontent.com/105768085/181969098-d4043f2b-77ee-4599-97cc-ec63657a4b5a.gif)
+![about](https://user-images.githubusercontent.com/105768085/181969127-a2e70700-3282-4b37-bf04-2ca4c93c931c.gif)
+
+
+<!--
+![egg](https://user-images.githubusercontent.com/105768085/181968745-4c4576f2-5753-4eca-8c86-a93172528e79.gif)
+![fire](https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif)
+![blog](https://user-images.githubusercontent.com/105768085/181968876-3bd55f73-b0c5-4d6b-b6bd-23033410a13a.gif)
+![last](https://user-images.githubusercontent.com/105768085/181968925-17c27347-4598-49b9-a8f2-9b9d59a703ac.gif)
+![3](https://user-images.githubusercontent.com/105768085/181968980-b6dab605-3ea8-44c8-b054-a38ebe4ca998.gif)
+![2](https://user-images.githubusercontent.com/105768085/181969029-2567e1c7-6978-4f2c-8964-fef8e1b9ed91.gif)
+
+-->
+
+
+
+
 ## Personal Summary 
 I am an enthusiastic and skillfull Python developer. I would like to work in a challenging, stimulating and growing environment that can utilize my expertise in full-stack Python web and desktop application development, data analytics and data modeling in an effective manner. I would like to grow my career in these directions although I am open to serve in any other technology stack other than Python. I am a fast learner and have solid understanding of programming fundamentals and enterprise level frameworks. This has enabled me to switch to any other programming ecosystem and adapt the language and framework in almost no time. My objective is to learn, serve and flourish in the organization in a mutually beneficial relationship.
 
