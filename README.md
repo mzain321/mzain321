@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-|Python Programming  
-| ------------- 
+|Python Programming  |OOP in Python
+| ------------- | ------------- 
 
 |OOP in Python
 | -------------
