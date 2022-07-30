@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-|Python Programming  |OOP in Python | Django |EDA |Machine Learning 
-| ------------- | ------------- | ------------- | ------------- | -------------
+|Python Programming  |OOP in Python | Django |EDA |Machine Learning |Machine Learning
+| ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 
 |OOP in Python
 | -------------
