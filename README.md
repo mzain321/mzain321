@@ -34,9 +34,3 @@ Here are some ideas to get you started:
 |Pandas |Matplotlib |Seaborn | Pygame
 | ------------- | ------------- | ------------- | -------------
 
-
-|OOP in Python
-| -------------
-
-| Python Programming   |OOP in Python|Django | EDA |  Machine Learning |  Deep Learning |  Computer Vision |  NLP |  Web Front & Backend Dev |
-|-----------------|-----------|---------------|---------------|--------------- |--------------- |--------------- |--------------- |---------------|
