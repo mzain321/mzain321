@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | Django
 | ------------- 
 
-| Default aligned |Left aligned| Center aligned  | Right aligned | Right alignedSD | Right alignedSD | Right alignedSD | Right alignedSD | Right alignedSD |
+| Python Programming   |OOP in Python|Django | EDA |  Machine Learning |  Deep Learning |  Computer Vision |  NLP |  Web Front & Backend Dev |
 |-----------------|-----------|---------------|---------------|--------------- |--------------- |--------------- |--------------- |---------------|
 
 
