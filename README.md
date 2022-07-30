@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 | --------------- | --------------- | --------------- |
 
-|   1   |       2 |       3 |
+| 1 | 2 | 3 |
 
-| Row 2 Column 1 |     2 |       3 |
+| 2 | 2 | 3 |
 
-| 3     |       2 |   3 |
+| 3 | 2 | 3 |
 
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
