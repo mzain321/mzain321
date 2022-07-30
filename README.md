@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 | Django
 | ------------- 
 
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|-----------|---------------|---------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|-----------|---------------|---------------|-----------------|-----------|---------------|---------------|
+
 
 
 
