@@ -24,12 +24,22 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
+|Python Programming  
+| ------------- 
 
+|OOP in Python
+| -------------
+
+| Django
+| ------------- 
 
 | Header Column One | Header Column Two | Header Column Three | Header Column Four |
 
 | A | S | D | F |
 
+| Default Header | Left Align | Right Align | Center Align |
+
+| ---            | :--        |         --: |      :-:     |
 
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
