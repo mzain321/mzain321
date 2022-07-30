@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 
 
-|Computer Vision   |NLP | Django |Web Front & Backend Dev | Tensorflow |Keras |Numpy |Pandas 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+|Computer Vision   |NLP | Django |Web Front & Backend Dev | Tensorflow |Keras |Numpy |Pandas |Matplotlib |Seaborn | Pygame
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 
 |OOP in Python
 | -------------
