@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 | Default aligned |Left aligned| Center aligned  | Right aligned  |
 |-----------------|-----------|---------------|---------------|
-| First body part |Second cell | Third cell      | fourth cell    |
+
 
 
 
