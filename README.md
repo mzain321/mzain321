@@ -28,6 +28,16 @@ Here are some ideas to get you started:
 | Python Programming  | OOP in Python  | OOP in Python  |
 |  Django  |  EDA |
 
+
+
+| 1  | 2 |
+| ------------- | ------------- |
+| Cell  |  Cell  |
+
+
+
+
+
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
 Matplotlib,
