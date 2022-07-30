@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 | ------------- | -------------
 
 ## Projects<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/>
-### CRM - Django
+<img src="https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif" width="30" height="30"/> ### CRM - Django
 Live demo: https://crmbyz.herokuapp.com
 Customer Relationship Management software solution designed for a shop coded using Django framework and PostgreSQL database.
 ### Spacie - Pygame
