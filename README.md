@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![hand](https://user-images.githubusercontent.com/105768085/181962612-2ce31e3e-f26c-44d9-9076-8ff0109caef8.gif)
+
 
 # 🤔 About Me
 ## Personal Summary 
