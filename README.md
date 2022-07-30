@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 | OOP in Python
 | ------------- 
-
 | Django
 | ------------- 
 
