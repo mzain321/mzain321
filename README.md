@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Technical Skills
+## Technical Skills
 Python Programming
 OOP in Python
 Django
