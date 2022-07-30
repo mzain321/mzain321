@@ -1,10 +1,11 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/105768085/181962612-2ce31e3e-f26c-44d9-9076-8ff0109caef8.gif" width="30" height="30"/>
 
-# 🤔 About Me![1](https://user-images.githubusercontent.com/105768085/181969098-d4043f2b-77ee-4599-97cc-ec63657a4b5a.gif)
-![about](https://user-images.githubusercontent.com/105768085/181969127-a2e70700-3282-4b37-bf04-2ca4c93c931c.gif)
+# 🤔 About Me! <img src="https://user-images.githubusercontent.com/105768085/181969127-a2e70700-3282-4b37-bf04-2ca4c93c931c.gif" width="30" height="30"/>
 
 
 <!--
+[1](https://user-images.githubusercontent.com/105768085/181969098-d4043f2b-77ee-4599-97cc-ec63657a4b5a.gif)
+![about](https://user-images.githubusercontent.com/105768085/181969127-a2e70700-3282-4b37-bf04-2ca4c93c931c.gif)
 ![egg](https://user-images.githubusercontent.com/105768085/181968745-4c4576f2-5753-4eca-8c86-a93172528e79.gif)
 ![fire](https://user-images.githubusercontent.com/105768085/181968826-88ea8488-3dd7-4e92-8d68-c269412b4e5d.gif)
 ![blog](https://user-images.githubusercontent.com/105768085/181968876-3bd55f73-b0c5-4d6b-b6bd-23033410a13a.gif)
