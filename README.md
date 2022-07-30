@@ -33,27 +33,20 @@ Here are some ideas to get you started:
 | Django
 | ------------- 
 
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
 
-| 1 | 2 | 3 |
 
-| --------------- | --------------- | --------------- |
-
-| 1 | 2 | 3 |
-
-| 2 | 2 | 3 |
-
-| 3 | 2 | 3 |
-
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-
-| --------------- | --------------- | --------------- |
-
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
