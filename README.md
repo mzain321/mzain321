@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 Live demo: https://crmbyz.herokuapp.com
 Customer Relationship Management software solution designed for a shop coded using Django framework and PostgreSQL database.
 ### Spacie - Pygame
-Git: https://github.com/Zain0909012/CRM---Django
+Git: https://github.com/Zain0909012/Spacie---Pygame
 A Python based game developed using Pygame for desktop environments. It is a GUI based game featuring skills in object oriented Pyhton programming and desktop application development.
 ### RPS - Python
-Git: https://github.com/Zain0909012/Spacie---Pygame
+Git: https://github.com/Zain0909012/
 A Python based game featuring the age old Rock-Paper-Scissor game.
 ### TSR - Tensorflow
-Git: https://github.com/.....
+Git: https://github.com/Zain0909012/
 A deep learning based computer vision project featuring detection of road signs for driverless cars using Convolutional Neural Network.
 ### ENAC- Tensorflow
-Git: https://github.com/.....
+Git: https://github.com/Zain0909012/
 A deep learning based NLP project featuring classification of English news articles using MLP.
