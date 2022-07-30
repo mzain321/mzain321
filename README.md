@@ -33,13 +33,16 @@ Here are some ideas to get you started:
 | Django
 | ------------- 
 
-| Header Column One | Header Column Two | Header Column Three | Header Column Four |
 
-| A | S | D | F |
+| 1 | 2 | 3 |
 
-| Default Header | Left Align | Right Align | Center Align |
+| --------------- | --------------- | --------------- |
 
-| ---            | :--        |         --: |      :-:     |
+|   1   |       2 |       3 |
+
+| Row 2 Column 1 |     2 |       3 |
+
+| 3     |       2 |   3 |
 
 Python Programming,OOP in Python,Django,EDA,Machine Learning,Deep Learning,Computer Vision,NLP,Web Front & Backend Dev,Tensorflow,Keras,Numpy,
 Pandas,
