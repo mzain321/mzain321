@@ -64,8 +64,11 @@ Here are some ideas to get you started:
 |Computer Vision   |NLP | Django |Web Front & Backend Dev | Tensorflow |Keras |Numpy 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 
-|Pandas |Matplotlib |Seaborn | Pygame
-| ------------- | ------------- | ------------- | -------------
+|Pandas |Matplotlib |Seaborn | Pygame|Google Forms (Custom) 
+| ------------- | ------------- | ------------- | -------------| -------------
+
+
+
 
 
 ## Soft Skills<img src="https://user-images.githubusercontent.com/105768085/181968925-17c27347-4598-49b9-a8f2-9b9d59a703ac.gif" width="30" height="30"/>
