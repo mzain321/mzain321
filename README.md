@@ -34,7 +34,7 @@ I am an enthusiastic and skillfull Python developer. I would like to work in a c
 
 ## Certifications<img src="https://user-images.githubusercontent.com/105768085/181969098-d4043f2b-77ee-4599-97cc-ec63657a4b5a.gif" width="30" height="30"/>
 Microsoft AI-900 (2022) 
-Microsoft, USA (In Progress)
+Microsoft, USA (Certified)
 
 Huawei HCIA-AI (2022) 
 Huawei, Mainland China (In Progress)
