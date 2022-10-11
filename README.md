@@ -36,8 +36,6 @@ I am an enthusiastic and skillfull Python developer. I would like to work in a c
 Microsoft AI-900 (2022) 
 Microsoft, USA (Certified)
 
-Huawei HCIA-AI (2022) 
-Huawei, Mainland China (In Progress)
 
 
 <!--
